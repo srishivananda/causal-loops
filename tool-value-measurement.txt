@@ -1,0 +1,12 @@
+graph TD
+  literacy -- s --> participation
+  literacy -- s --> usage
+  literacy -- s --> activity
+  literacy -- s --> output
+  availability -- s --> awareness
+  awareness -- s --> participation
+  participation -- s --> usage
+  usage -- s --> activity
+  activity -- s --> output
+  output -- s --> outcome
+
